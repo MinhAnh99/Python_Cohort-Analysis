@@ -29,4 +29,4 @@ Using Python to analyze KPMG transaction data and create a cohort that allows st
 
 ## IV. Recommendations
 - With the goal to increase the retention over the months, there should be attractive specials for customers in the first few months of the year.
-- Mid-year months have higher retention rates than other months, need to find out reasons with related data and visualization of other data to apply to the remaining months of the year.**
+- Mid-year months have higher retention rates than other months, need to find out reasons with related data and visualization of other data to apply to the remaining months of the year.
